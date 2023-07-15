@@ -1,0 +1,3 @@
+g++ -Isrc/Include -Lsrc/lib -o SortViz SortViz.cpp -lmingw32 -lSDL2main -lSDL2
+
+Run This Line to create an executable file and run that file! Enjoy the sorting visualiser!
